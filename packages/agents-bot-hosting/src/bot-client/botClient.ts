@@ -52,5 +52,7 @@ export const PostActivity = async (activity: Activity, botClientConfig: BotClien
   if (!response.ok) {
     throw new Error(`Failed to post activity to bot: ${response.statusText}`)
   }
-  return response.json()
+  const responseText = await response.text()
+  console.log('Posted activity to bot response', responseText)
+  return undefined
 }
