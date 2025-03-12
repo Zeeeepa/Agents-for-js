@@ -1,0 +1,38 @@
+{
+    "type": "message",
+    "id": "IfxenhOqYRR4jfMT7XOjdC-us|0000011",
+    "timestamp": "2025-03-11T23:23:39.6601556\\u002B00:00",
+    "localTimestamp": "2025-03-11T16:23:39.587-07:00",
+    "localTimezone": "America/Los_Angeles",
+    "serviceUrl": "http://localhost:3978/api/botresponse/",
+    "channelId": "webchat",
+    "from": {
+        "id": "c7292dba-1513-42bc-9ba8-4d686b21aad7",
+        "name": ""
+    },
+    "conversation": {
+        "id": "2965844e-cbd6-4f40-8f1d-a07aeff375a3",
+        "properties": {}
+    },
+    "recipient": {
+        "id": "rido-bot-01@3Y0PGApS8twNuWdPhuFH7pL2WOq8tb9A6lJpPZeuRYNRespZ40k1JQQJ99BBACZoyfiAArohAAABAZBSi1sO",
+        "name": "rido-bot-01",
+        "role": "skill"
+    },
+    "textFormat": "plain",
+    "locale": "en-US",
+    "text": "agent",
+    "channelData": {
+        "clientActivityID": "qzodu99ahzd"
+    },
+    "relatesTo": {
+        "activityId": "IfxenhOqYRR4jfMT7XOjdC-us|0000011",
+        "conversation": {
+            "id": "IfxenhOqYRR4jfMT7XOjdC-us",
+            "properties": {}
+        },
+        "channelId": "webchat",
+        "serviceUrl": "https://webchat.botframework.com/",
+        "locale": "en-US"
+    }
+}
